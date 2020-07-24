@@ -21,7 +21,7 @@ import os
 import math
 import scipy
 
-YOUR_DIR = 'C:\\Users\\Admin\\surfdrive\\Paper_4\\PYTHON_github'
+YOUR_DIR = 'C:\\Users\\Admin\\...'
 os.chdir(YOUR_DIR)
 
 

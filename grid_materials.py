@@ -20,7 +20,7 @@ import os
 import matplotlib.pyplot as plt
 from past.builtins import execfile
 
-YOUR_DIR = 'C:\\Users\\Admin\\surfdrive\\Paper_4\\PYTHON_github'
+YOUR_DIR = 'C:\\Users\\...'
 os.chdir(YOUR_DIR)
 
 datapath = YOUR_DIR + '\\grid_data\\'
